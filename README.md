@@ -14,7 +14,7 @@ Script currently pings the following Host IDs:
 .4
 
 ----------
-Pinging a host ID of your choice (For example, .200):
+Adding a host ID of your choice (For example, .200):
 
 
 
